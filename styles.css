@@ -1,0 +1,24 @@
+:root {
+  margin: 0;
+  padding: 0;
+  background-color: bisque;
+}
+
+.gen-btn {
+  color: blue;
+}
+
+.gen-list {
+  list-style-type: none;
+  margin: 1rem;
+  padding: 0;
+}
+.gen-list > li {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+body {
+  text-align: center;
+  font-size: larger;
+}
